@@ -1,0 +1,17 @@
+
+
+
+
+function User( nick, ordenDeRegistro, Contraseña ); {
+	this nick= nick;
+	this  ordenDeRegistro = ordenDeRegistro;
+	this Contraseña = Contraseña;
+}
+
+
+
+
+
+
+
+
